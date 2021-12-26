@@ -1,0 +1,6 @@
+certifi==2021.10.8
+pip==21.2.4
+protobuf==3.17.2
+setuptools==58.0.4
+six==1.16.0
+wheel==0.37.0
